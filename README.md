@@ -340,6 +340,7 @@ Principais ferramentas e bibliotecas utilizadas (versões especificadas em `requ
 ## 📄 Licença
 
 Este projeto foi desenvolvido exclusivamente para fins acadêmicos – FIAP. Qualquer uso, modificação ou redistribuição deve seguir as diretrizes institucionais e de propriedade intelectual aplicáveis.
+
 ---
 
 ```
