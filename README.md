@@ -264,10 +264,12 @@ O modelo SVM:
 ```text
 FASE4_ATIVIDADE_CAP3/
 │
-├─ .venv/                  # Ambiente virtual Python 
+├─ LICENSE
+├─ README.md
+├─ Seeds_Notebook.ipynb    # Notebook Jupyter com toda a análise e modelagem            
 ├─ requirements.txt        # Lista de dependências do projeto
-├─ seeds_dataset.txt       # Seeds Dataset (dados de entrada)
-└─ Seeds_Notebook.ipynb    # Notebook Jupyter com toda a análise e modelagem
+└─ seeds_dataset.txt       # Seeds Dataset (dados de entrada)
+ 
 ````
 
 ---
